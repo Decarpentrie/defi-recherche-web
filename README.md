@@ -113,7 +113,9 @@ Le modèle du cycle en V a été imaginé pour pallier le problème de réactivi
 
 Un hacker  est un spécialiste qui recherche les moyens de contourner les protections logicielles et matérielles. Il peut vouloir signaler les failles trouvées au propriétaire du système concerné (dans une démarche d'amélioration de la sécurité de ce système).
 
+#### Qui a inventé la souris ?
 
+Douglas Engelbart est l'inventeur de la souriss
 
 
 
