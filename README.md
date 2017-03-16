@@ -8,10 +8,10 @@
 
 #### Qu’est-ce que cela :
 
- ⋅⋅* 8.8.8.8 est le DNS de Google
- ⋅⋅* 192.168.0.1 permet d'acceder a la box pour la configurer
- ⋅⋅* 255.255.255.0 c'est le masque réseau
- ⋅⋅* 127.0.0.1 c'est le localhost
+ * 8.8.8.8 est le DNS de Google
+ * 192.168.0.1 permet d'acceder a la box pour la configurer
+ * 255.255.255.0 c'est le masque réseau
+ * 127.0.0.1 c'est le localhost
 
 #### Que sont le copyright et le copyleft ?
 
@@ -32,3 +32,8 @@ Qwant est un moteur de recherche français
 #### Qui est Steve Wozniak ?
 
 il est le co-fondateur d'apple
+
+#### D'où vient l'expression "bug informatique" ?
+
+Grace Hopper, un officier de l’US Navy,  travaillé sur un ordinateur Harvard Mark II losqu'elle trouve un papillon coincé entre les  relais électriques de la machine. Le papillon en question a causé un court-circuit et a provoqué un dysfonctionnement de l’ordinateur. Et c’est de là que viendrait l’expression « bug dans l’ordinateur ».
+
