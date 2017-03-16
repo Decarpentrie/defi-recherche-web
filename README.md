@@ -75,8 +75,9 @@ Il est l'initiateur du mouvement du logiciel libre, il a lancer le projet GNU et
 
 Pour l'utiliser il suffit d’utiliser une commande appelée !bang, il faut indiquer la requête avec un point d’exclamation suivi du nom du site ou du diminutif y correspondant. 
 
+#### Qui est Marissa Mayer ?
 
-
+Elle occupe le poste de PDG de Yahoo!, après avoir était vice-présidente responsable des services de cartographie et de géolocalisation chez Google. 
 
 
 
