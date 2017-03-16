@@ -2,7 +2,7 @@
 
  Internet a était inventé par Robert Elliot et Vint Cerf, en 1972, pour créée un reseau à tout épreuve contre les attaques  nucléaire et a était invanté en Amerique.
 
-#### H4 Quelle est la différence entre le Web et Internet ?
+#### Quelle est la différence entre le Web et Internet ?
 
  le web est un toile d'hyperlien et internet est une toile d'ordinateur.
 
@@ -36,4 +36,40 @@ il est le co-fondateur d'apple
 #### D'où vient l'expression "bug informatique" ?
 
 Grace Hopper, un officier de l’US Navy,  travaillé sur un ordinateur Harvard Mark II losqu'elle trouve un papillon coincé entre les  relais électriques de la machine. Le papillon en question a causé un court-circuit et a provoqué un dysfonctionnement de l’ordinateur. Et c’est de là que viendrait l’expression « bug dans l’ordinateur ».
+
+#### Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
+
+les communautés de développeurs :
+ 
+ * Meet Up
+ * La Cantine
+ * La French Tech
+
+les prochains évènement :
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
