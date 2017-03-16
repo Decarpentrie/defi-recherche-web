@@ -143,7 +143,9 @@ Le load balancing, répartition de charge en français, est un ensemble de princ
 
 Un Open Source est un programme informatique dont le code source est distribué sous une licence permettant à quiconque de le lire, modifier ou redistribuer ce logiciel
 
+#### Qu’est-ce que le Bug Bounty ?
 
+Est une pratique permettant à une entreprise de faire tester la sécurité de ses applications par des hackers, en les récompensant pour chaque bug ou vulnérabilité qu'ils lui reportent.
 
 
 
