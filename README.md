@@ -8,10 +8,10 @@
 
 #### H4 Qu’est-ce que cela :
 
- ... 8.8.8.8 est le DNS de Google
- ... 192.168.0.1 permet d'acceder a la box pour la configurer
- ... 255.255.255.0 c'est le masque réseau
- ... 127.0.0.1 c'est le localhost
+ ...8.8.8.8 est le DNS de Google
+ ...192.168.0.1 permet d'acceder a la box pour la configurer
+ ...255.255.255.0 c'est le masque réseau
+ ...127.0.0.1 c'est le localhost
 
 #### H4 Que sont le copyright et le copyleft ?
 
@@ -24,3 +24,7 @@
 #### H4 Qui est Grace Hopper ?
 
 Grace Hopper est la conceptrice du premier compilateur et du language COBOL 
+
+#### H4 Qu'est-ce que Qwant ?
+
+Qwant est un moteur de recherche français
