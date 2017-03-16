@@ -97,9 +97,17 @@ les différents service d'emailing sont Benchmark Email, Dolist, EmailStrategie,
 
 #### Quelle est votre adress IP actuelle ?
 
-192.168.1.173
 
 
+#### Et celle de votre smartphone ?
+
+
+
+
+#### Qu’est-ce que le développement en cycle V ?
+
+
+Le modèle du cycle en V a été imaginé pour pallier le problème de réactivité du modèle en cascade. Ce modèle est une amélioration du modèle en cascade qui permet en cas d'anomalie, de limiter un retour aux étapes précédentes. Les phases de la partie montante doivent renvoyer de l'information sur les phases en vis-à-vis lorsque des défauts sont détectés afin d'améliorer le logiciel.
 
 
 
