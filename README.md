@@ -87,7 +87,9 @@ L'attaque par force brute est une méthode utilisée en cryptanalyse pour trouve
 
 Il est le créateur de linux, Il a également créé le logiciel  Git
 
+#### Combien coûte un nom de domaine ?
 
+Il varie entre 6 et 15 euros
 
 
 
