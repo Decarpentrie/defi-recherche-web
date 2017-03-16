@@ -121,5 +121,41 @@ Douglas Engelbart est l'inventeur de la souris.
 
  Elle est une informaticienne et mathématicienne. Elle était directrice du département génie logiciel (« software engineering ») du MIT Instrumentation Laboratory qui conçut le système embarqué du programme Apollo.
 
+#### Retrouvez le code source de la mission Apollo 11
+
+
+
+#### Qu’est-ce que Agile Manifesto ?
+
+Le Agile Manifesto est un texte rédigé par 17 experts du développement d'applications informatiques sous la forme de plusieurs méthodes dites agiles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
