@@ -151,12 +151,9 @@ Est une pratique permettant à une entreprise de faire tester la sécurité de s
 
 C'est la première version d'Internet Protocol (IP) à avoir été largement déployée
 
+#### Pourquoi parle-t-on aussi d'adresse IP v6 ?
 
-
-
-
-
-
+On parle aussi d'adresse IP v6 car internet se compose de plusieur couche
 
 
 
