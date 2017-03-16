@@ -115,7 +115,11 @@ Un hacker  est un spécialiste qui recherche les moyens de contourner les protec
 
 #### Qui a inventé la souris ?
 
-Douglas Engelbart est l'inventeur de la souriss
+Douglas Engelbart est l'inventeur de la souris.
+
+#### Qui est Margaret Hamilton ?
+
+ Elle est une informaticienne et mathématicienne. Elle était directrice du département génie logiciel (« software engineering ») du MIT Instrumentation Laboratory qui conçut le système embarqué du programme Apollo.
 
 
 
