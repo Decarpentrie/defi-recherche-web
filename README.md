@@ -95,7 +95,9 @@ Il varie entre 6 et 15 euros
 
 les différents service d'emailing sont Benchmark Email, Dolist, EmailStrategie, E-Missive, eTarget Web, GetResponse, Mailpro, SendinBlue. 
 
+#### Quelle est votre adress IP actuelle ?
 
+192.168.1.173
 
 
 
