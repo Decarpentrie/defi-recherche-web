@@ -155,7 +155,9 @@ C'est la première version d'Internet Protocol (IP) à avoir été largement dé
 
 On parle aussi d'adresse IP v6 car internet se compose de plusieur couche
 
+#### Combien coûte un serveur pour héberger mon site perso ?
 
+Sa peut être gratuit 
 
 
 
