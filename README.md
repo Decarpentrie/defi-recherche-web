@@ -83,7 +83,9 @@ Elle occupe le poste de PDG de Yahoo!, après avoir était vice-présidente resp
 
 L'attaque par force brute est une méthode utilisée en cryptanalyse pour trouver un mot de passe ou une clé. Il s'agit de tester, une à une, toutes les combinaisons possibles.
 
+#### Qui est Linus Torvalds ? 
 
+Il est le créateur de linux
 
 
 
