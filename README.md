@@ -71,6 +71,9 @@ Https est plus secure grâce au S
 
 Il est l'initiateur du mouvement du logiciel libre, il a lancer le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a développé de nombreux logiciels comme l’éditeur de texte GNU Emacs, le compilateur C de GNU (GCC), le débogueur GNU (gdb) mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make.
 
+#### Comment fonctionnent les bang de Duck Duck Go ?
+
+Pour l'utiliser il suffit d’utiliser une commande appelée !bang, il faut indiquer la requête avec un point d’exclamation suivi du nom du site ou du diminutif y correspondant. 
 
 
 
