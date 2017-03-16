@@ -163,7 +163,9 @@ Sa peut être gratuit
 
 Le cowboy coding est le développement de logiciels où les programmeurs ont une autonomie sur le processus de développement
 
+#### Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
 
+les langages les plus plébiscité sont java, c, c++, c#, python, javascript
 
 
 
