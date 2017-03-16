@@ -91,6 +91,10 @@ Il est le créateur de linux, Il a également créé le logiciel  Git
 
 Il varie entre 6 et 15 euros
 
+#### Quels sont les différents services d'emailing disponibles ?
+
+les différents service d'emailing sont Benchmark Email, Dolist, EmailStrategie, E-Missive, eTarget Web, GetResponse, Mailpro, SendinBlue. 
+
 
 
 
