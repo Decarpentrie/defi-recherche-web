@@ -58,7 +58,9 @@ les prochains évènement :
 
  Swartz s'est impliqué dans le développement du format de flux Web RSS2, l'organisation Creative Commons3, le cadriciel de site Web web.py4 et le site d'actualité Reddit, dans lequel il est devenu associé après fusion avec sa compagnie, Infogaminote 1. Les travaux de Swartz ont également porté sur la sociologie, l'éducation civique et le militantisme5,6. Il a aidé à lancer le Progressive Change Campaign Committee (en) en 2009, afin d'en apprendre plus sur le cybermilitantisme et son efficacité. En 2010, il est devenu chercheur au laboratoire « Safra » de recherche sur la corruption institutionnelle de l'université Harvard, dirigé par Lawrence Lessig7,8. Il a fondé le cyber-groupe Demand Progress, connu pour sa campagne contre le Stop Online Piracy Act (SOPA).
 
+#### Qu’est-ce que le projet GNU ?
 
+Le Projet GNU a été démarré en septembre 1983 par Richard M. Stallman afin de créer un système d'exploitation complet utilisant du logiciel libre.
 
 
 
