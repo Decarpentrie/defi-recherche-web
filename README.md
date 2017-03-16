@@ -139,7 +139,9 @@ Le Agile Manifesto est un texte rédigé par 17 experts du développement d'appl
 
 Le load balancing, répartition de charge en français, est un ensemble de principes informatiques. Les techniques déployées ont pour objectif de distribuer une charge sur différents ordinateurs appartenant à un même groupe.
 
+#### Qu’est-ce que l’Open Source ?
 
+Un Open Source est un programme informatique dont le code source est distribué sous une licence permettant à quiconque de le lire, modifier ou redistribuer ce logiciel
 
 
 
