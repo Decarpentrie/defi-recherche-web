@@ -79,7 +79,9 @@ Pour l'utiliser il suffit d’utiliser une commande appelée !bang, il faut indi
 
 Elle occupe le poste de PDG de Yahoo!, après avoir était vice-présidente responsable des services de cartographie et de géolocalisation chez Google. 
 
+#### Qu’est-ce qu’une attaque “brute force” ?
 
+L'attaque par force brute est une méthode utilisée en cryptanalyse pour trouver un mot de passe ou une clé. Il s'agit de tester, une à une, toutes les combinaisons possibles.
 
 
 
