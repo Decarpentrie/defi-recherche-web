@@ -85,7 +85,7 @@ L'attaque par force brute est une méthode utilisée en cryptanalyse pour trouve
 
 #### Qui est Linus Torvalds ? 
 
-Il est le créateur de linux
+Il est le créateur de linux, Il a également créé le logiciel  Git
 
 
 
