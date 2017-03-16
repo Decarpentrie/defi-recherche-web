@@ -1,4 +1,4 @@
-#Par qui, quand, pourquoi et où a été inventé Internet ?
+Par qui, quand, pourquoi et où a été inventé Internet ? 
 
 Internet a était inventé par Robert Elliot et Vint Cerf, en 1972, pour créée un reseau à tout épreuve contre les attaques nucléaire et a était invanté en Amerique.
 
@@ -12,4 +12,11 @@ le web est un toile d'hyperlien et internet est une toile d'ordinateur.
 192.168.0.1 permet d'acceder a la box pour la configurer
 255.255.255.0 c'est le masque réseau
 127.0.0.1 c'est le localhost
+
+Que sont le copyright et le copyleft ?
+
+Le copyright représente le droit d'auteur et le copyleft permet de reproduire quelque chose dans la mesure où la reproduction à la même licence.
+
+
+
 
