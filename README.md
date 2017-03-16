@@ -67,6 +67,9 @@ Le Projet GNU a été démarré en septembre 1983 par Richard M. Stallman afin d
 Http permet de recevoir des informations des serveurs web (serveurs http), d’envoyer des informations vers les serveurs web, et surtout que tous ces échanges se sont font sans aucun cryptage.
 Https est plus secure grâce au S
 
+#### Qui est Richard Stallman ?
+
+Il est l'initiateur du mouvement du logiciel libre, il a lancer le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a développé de nombreux logiciels comme l’éditeur de texte GNU Emacs, le compilateur C de GNU (GCC), le débogueur GNU (gdb) mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make.
 
 
 
