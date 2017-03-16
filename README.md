@@ -133,6 +133,12 @@ Le Agile Manifesto est un texte rédigé par 17 experts du développement d'appl
 
 [http://blog.shareaholic.com/wp-content/uploads/2012/05/Facebook-Screenshot-2004.jpg)
 
+#### Quelle est la répartition des systèmes d'exploitation pour les serveurs
+
+#### Qu'est-ce que le load balancing ?
+
+Le load balancing, répartition de charge en français, est un ensemble de principes informatiques. Les techniques déployées ont pour objectif de distribuer une charge sur différents ordinateurs appartenant à un même groupe.
+
 
 
 
