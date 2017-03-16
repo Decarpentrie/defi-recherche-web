@@ -147,7 +147,9 @@ Un Open Source est un programme informatique dont le code source est distribué 
 
 Est une pratique permettant à une entreprise de faire tester la sécurité de ses applications par des hackers, en les récompensant pour chaque bug ou vulnérabilité qu'ils lui reportent.
 
+#### Qu'est-ce qu'une adresse IP v4 ?
 
+C'est la première version d'Internet Protocol (IP) à avoir été largement déployée
 
 
 
